@@ -7,7 +7,8 @@ Want to know more, please visit my [personal website](https://mrsyafapri.github.
 
 <p align="left">
 <a href="https://github.com/mrsyafapri">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrsyafapri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrsyafapri&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsyafapri&theme=tokyonight">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrsyafapri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrsyafapri&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
