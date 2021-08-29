@@ -1,7 +1,7 @@
 # Hello Everyone 👋
 
 ### My name is **Muhammad Rizki Syafapri**.
-I'm an *Undergraduate Student* and *Web Developer*.
+I'm an *Undergraduate Student* and *Web Developer*. I am a *Lead* at [GDSC State Islamic University of Sultan Syarif Kasim](https://gdsc.community.dev/state-islamic-university-of-sultan-syarif-kasim/).
 
 Want to know more, please visit my [personal website](https://mrsyafapri.github.io/).
 
