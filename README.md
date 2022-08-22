@@ -1,7 +1,7 @@
 # Hello Everyone 👋
 
 ## 👨🏻‍💻 &nbsp;About Me
-My name is **Muhammad Rizki Syafapri**. I'm an *Undergraduate Student* at UIN Sultan Syarif Kasim Riau. I am a *GDSC Lead* at [GDSC State Islamic University of Sultan Syarif Kasim](https://gdsc.community.dev/state-islamic-university-of-sultan-syarif-kasim/).
+My name is **Muhammad Rizki Syafapri**. I'm an *Undergraduate Student* at UIN Sultan Syarif Kasim Riau.
 
 I am a hard worker and can create simple websites. During more than a year of learning programming, I managed to create several websites and understand the programming languages such as Java, JavaScript, and Python. As an informatics engineering student, I am committed to learning and developing skills in software engineering, and web development.
 
